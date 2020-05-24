@@ -1,0 +1,2 @@
+python documentation-https://pytorch.org/docs/stable/nn.html#crossentropyloss
+null-https://pytorch.org/docs/stable/nn.html#nllloss
